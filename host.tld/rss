@@ -1,10 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <rss version="2.0">
-<channel>
-	<title>Mon RSS</title>
-	<description>toto</description>
-	<pubDate>Mon, 13 Jun 2022 08:00:00 GMT</pubDate>
-	<link>https://raw.githubusercontent.com/Martine-22/wildcodeschool/main/host.tld/index.html</link>
-</channel>
+  <channel>
+    <title>Mon article</title>
+    <link>https://raw.githubusercontent.com/Martine-22/wildcodeschool/main/Injection%20-%20XML%20eXternal%20Entity/index.html</link>
+    <description>ma tronche </description>
+    <pubDate>Mon, 13 Jun 2022 08:00:00 GMT</pubDate>
+    <item>
+      <title>nouvel Item</title>
+      <link>https://raw.githubusercontent.com/Martine-22/wildcodeschool/main/Injection%20-%20XML%20eXternal%20Entity/index.html</link>
+      <description>Me reconnaissez-vous ?</description>
+      <pubDate>Mon, 13 Jun 2022 08:00:00 GMT</pubDate>
+    </item>
+  </channel>
 </rss>
-<!-- https://www.xul.fr/rss-fr.xml -->
