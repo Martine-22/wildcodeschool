@@ -1,2 +1,2 @@
-Décodage du resultat de rss2 avec base64 : 
+Décodage du resultat de rss avec base64 : 
 echo coller_contenu_base64 | base64 -d
